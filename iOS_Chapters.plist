@@ -17,17 +17,17 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string>下载时大图(非必填)</string>
+					<string>THE URL FOR INSTALLATION @2x ICON: ex: http://go.com/Icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string>下载时小图(非必填)</string>
+					<string>THE URL FOR INSTALLATION ICON: ex: http://go.com/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -38,8 +38,6 @@
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>App(副标题)</string>
 				<key>title</key>
 				<string>iOS_Chapters</string>
 			</dict>
