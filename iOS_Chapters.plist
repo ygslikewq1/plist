@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.2.6/ios_date/iOS_Chapters.ipa</string>
+					<string>http://194.168.2.6/u3d_ios/iOS_Chapters.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.stardust.iOS-Chapters</string>
+				<string>com.mars.avgchapters</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iOS_Chapters</string>
+				<string>Chapters</string>
 			</dict>
 		</dict>
 	</array>
